@@ -1,0 +1,1 @@
+Python Şifreli haberleşmeyi sağlayan bir uygulama yapın. client.py ve server.py adlı iki dosya olmalı. Mesajlar base64 ile şifrelenmeli. 

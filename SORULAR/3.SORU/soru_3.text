@@ -1,0 +1,2 @@
+verilen grid map üzerinden ‘A’ noktasında başlayan ve ‘P’ noktasına giden bir aracın ‘X’ lere çarpmadan gidebileceği en kısa yolu hesaplayan ve path çıktısı veren bir algoritma yazın.
+grid = [ [‘P’, '.', '.', 'X', '.', '.'], ['.', 'X', '.', 'X', ‘X’, '.'], ['.', '.', '.', '.', 'X', '.'], ['X', 'X', 'X', '.', 'X', 'X'], ['.', '.', '.', '.', '.', ‘A’] ]
